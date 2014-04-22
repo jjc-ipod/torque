@@ -1,0 +1,8 @@
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\bin\Debug\TorControl.exe
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\bin\Debug\TorControl.pdb
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.FormMain.resources
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.Properties.Resources.resources
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.exe
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.pdb
+c:\users\james\documents\visual studio 2010\Projects\TorControl\TorControl\obj\x86\Debug\TorControl.FormSettings.resources
